@@ -1,0 +1,24 @@
+:host {
+  display: block;
+}
+
+div {
+  color: #007DE3;
+  background-color: #E5F3FF;
+  font-family: sans-serif;
+  padding: 20px;
+}
+
+p{
+    color: #007DE3;
+    font-size: 20px;
+}
+
+button{
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 8px;
+    font-family: sans-serif;
+    background: #007DE3;
+    color: white;
+}
